@@ -5,7 +5,7 @@ nombrado que incluya nombre, edad y un nuevo atributo, cargo. Sobrescribe el
 método de mostrar detalles para incluir el cargo del empleado.
 */
 
-import 'Ejercicio_1.dart';
+import 'Exercise_1.dart';
 
 class Employee extends Person {
   String position;
